@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T09:07:19.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.6.8" etag="C9yLE_IJIAtK6MPdYXxi" type="github"><diagram id="raVFc329Geu57f94OKR3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-16T07:33:26.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VuCfj1fuB_GwsBKPuYqq" version="15.6.8" type="github">
+  <diagram id="raVFc329Geu57f94OKR3" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M4zWexWuNpSWJM7RMc56-1" value="指标数据文件&lt;br&gt;指标原始数据" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M4zWexWuNpSWJM7RMc56-2" value="结构化的指标数据" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M4zWexWuNpSWJM7RMc56-3" value="校验&lt;br&gt;格式化" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M4zWexWuNpSWJM7RMc56-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="M4zWexWuNpSWJM7RMc56-1" target="M4zWexWuNpSWJM7RMc56-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="300" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4zWexWuNpSWJM7RMc56-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="354.5" as="sourcePoint" />
+            <mxPoint x="550" y="354.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4zWexWuNpSWJM7RMc56-8" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M4zWexWuNpSWJM7RMc56-11" value="处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M4zWexWuNpSWJM7RMc56-12" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
